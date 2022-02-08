@@ -1,0 +1,2 @@
+# JavaScriptInheritanceConcept
+JavaScript Inheritance Concept
