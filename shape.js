@@ -1,4 +1,5 @@
-export class Shape{
+// declare class
+class Shape{
   let color="black";
 
   drawShape(){
@@ -9,4 +10,9 @@ export class Shape{
 
   }
 
+}
+// export class using module.exports
+
+module.exports = {
+    Shape: Shape
 }
